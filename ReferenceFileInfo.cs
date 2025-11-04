@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 // AUTOMATICKY VYGENEROVANÝ KÓD - NEUPRAVOVAT RUČNĚ!
-// Vygenerováno: 2025-09-08 16:16:01
-// Zdrojová složka: C:\Users\simon\Desktop\Vietcong - Gold Edition
-// Počet .cbf souborů: 35
+// Vygenerováno: 2025-11-04 10:59:51
+// Zdrojová složka: C:\Users\simon\AppData\Local\VietcongGame\Vietcong - Gold Edition
+// Počet .cbf souborů: 36
 // Kontroluje se pouze velikost souborů
 
 public class FileMetadata
@@ -16,7 +16,8 @@ class ReferenceFileInfo
 {
     public static readonly Dictionary<string, FileMetadata> FileInfos = new Dictionary<string, FileMetadata>
     {
-        [@"setup.cbf"] = new FileMetadata { Size = 469987L },
+        [@"M16_AK47_Black.cbf"] = new FileMetadata { Size = 2142402L },
+        [@"setup.cbf"] = new FileMetadata { Size = 469979L },
         [@"vietcong_101.cbf"] = new FileMetadata { Size = 7161330L },
         [@"vietcong_120.cbf"] = new FileMetadata { Size = 19557227L },
         [@"vietcong_130.cbf"] = new FileMetadata { Size = 30123578L },
