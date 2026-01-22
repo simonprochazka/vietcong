@@ -7,8 +7,15 @@
       "fullDownloadUrl": "https://mega.nz/file/ydNgCKrS#ZdJq9_qWkY93WLLnJr0J-VhhIUz2lr0IXNcW-CKhT4g",
       "deltaDownloadUrl": "https://mega.nz/file/CFUQBBoR#kIaQ5vWpQYRugwVH7rsviU6f_N_X2Gh-qsXQEk3-WW0",
       "hasDelta": true
+    },
+    {
+      "version": "1.0.2",
+      "date": "2026-01-22",
+      "changelog": "test nova verze",
+      "fullDownloadUrl": "https://mega.nz/file/eF8zAa4Z#fZ-42Lqs5-8JDG47awlHs3_fTIiTLPEFgUhnvBjWR44",
+      "deltaDownloadUrl": "https://mega.nz/file/GRFG1DDT#ag3xOTOicFktZxqICNUoyQFvVR8YVv_knMgwR3zqmRk",
+      "hasDelta": true
     }
   ],
-  "latest": "1.0.1"
+  "latest": "1.0.2"
 }
-
