@@ -2,7 +2,7 @@
   "versions": [
     {
       "version": "1.0.0",
-      "date": "2025-01-20",
+      "date": "2025-01-15",
       "changelog": "První release",
       "fullDownloadUrl": "https://mega.nz/file/OVE1hIyL#8c-mmtAJQAm0HfG2oDo-x0oqfBOprVjMNl7ZtuvaHEo"
       "deltaDownloadUrl": null,
@@ -28,4 +28,5 @@
   "latest": "1.0.2"
 
 }
+
 
