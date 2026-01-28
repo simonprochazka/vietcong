@@ -2,8 +2,9 @@ using System;
 using System.Collections.Generic;
 
 // AUTOMATICKY VYGENEROVANÝ KÓD - NEUPRAVOVAT RUČNĚ!
-// Vygenerováno: 2026-01-22 14:26:57
-// Počet souborů (.cbf + .dll): 32
+// Vygenerováno: 2026-01-14 17:15:48
+// Zdrojová složka: C:\Users\simon\Desktop\VietcongGame\Vietcong - Gold Edition
+// Počet souborů (.cbf + .dll): 45
 // Kontroluje se pouze velikost souborů
 
 public class FileMetadata
@@ -11,7 +12,7 @@ public class FileMetadata
     public long Size { get; set; }
 }
 
-public class ReferenceFileInfo
+class ReferenceFileInfo
 {
     public static readonly Dictionary<string, FileMetadata> FileInfos = new Dictionary<string, FileMetadata>
     {
@@ -28,6 +29,19 @@ public class ReferenceFileInfo
         [@"hradba\\versions\\hradba00200.cbf"] = new FileMetadata { Size = 71212L },
         [@"hradba\\versions\\hradba00202.cbf"] = new FileMetadata { Size = 91230L },
         [@"logs.dll"] = new FileMetadata { Size = 1867776L },
+        [@"maps\\3SF-BRIDGE.cbf"] = new FileMetadata { Size = 89149L },
+        [@"maps\\BeerParty.cbf"] = new FileMetadata { Size = 988L },
+        [@"maps\\Cement_Dust.cbf"] = new FileMetadata { Size = 69451L },
+        [@"maps\\Depot.cbf"] = new FileMetadata { Size = 76444L },
+        [@"maps\\DustGlas.cbf"] = new FileMetadata { Size = 97969L },
+        [@"maps\\DustWorld.cbf"] = new FileMetadata { Size = 69281L },
+        [@"maps\\Frontier.cbf"] = new FileMetadata { Size = 155140L },
+        [@"maps\\Halong-V1.9.cbf"] = new FileMetadata { Size = 720973L },
+        [@"maps\\indiancountry.cbf"] = new FileMetadata { Size = 14782646L },
+        [@"maps\\Midi.cbf"] = new FileMetadata { Size = 97890L },
+        [@"maps\\Osgiliath-City.cbf"] = new FileMetadata { Size = 73544L },
+        [@"maps\\RiverDale.cbf"] = new FileMetadata { Size = 162351L },
+        [@"maps\\threecanyons.cbf"] = new FileMetadata { Size = 7968524L },
         [@"msvcp120.dll"] = new FileMetadata { Size = 455328L },
         [@"msvcr120.dll"] = new FileMetadata { Size = 970912L },
         [@"ogg.dll"] = new FileMetadata { Size = 49152L },
