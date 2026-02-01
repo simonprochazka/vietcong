@@ -2,11 +2,11 @@
   "latest": "1.0.2",
   "versions": [
     {
-      "version": "1.0.1",
+      "version": "1.0.0",
       "date": "2026-01-17",
       "changelog": "teset",
-      "fullDownloadUrl": "https://mega.nz/file/ydNgCKrS#ZdJq9_qWkY93WLLnJr0J-VhhIUz2lr0IXNcW-CKhT4g",
-      "deltaDownloadUrl": "https://mega.nz/file/CFUQBBoR#kIaQ5vWpQYRugwVH7rsviU6f_N_X2Gh-qsXQEk3-WW0",
+      "fullDownloadUrl": "https://mega.nz/file/jdN0GCjC#8c-mmtAJQAm0HfG2oDo-x0oqfBOprVjMNl7ZtuvaHEo",
+      "deltaDownloadUrl":null,
       "hasDelta": true
     },
     {
@@ -19,3 +19,4 @@
     }
   ]
 }
+
