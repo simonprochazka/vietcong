@@ -1,22 +1,15 @@
 {
-  "latest": "1.0.2",
+  "latest": "1.0.0",
   "versions": [
     {
       "version": "1.0.0",
       "date": "2026-01-17",
       "changelog": "teset",
-      "fullDownloadUrl": "https://mega.nz/file/jdN0GCjC#8c-mmtAJQAm0HfG2oDo-x0oqfBOprVjMNl7ZtuvaHEo",
+      "fullDownloadUrl": "http://188.130.232.91:8080/download",
       "deltaDownloadUrl":null,
       "hasDelta": true
     },
-    {
-      "version": "1.0.2",
-      "date": "2026-01-22",
-      "changelog": "test nova verze",
-      "fullDownloadUrl": "https://mega.nz/file/eF8zAa4Z#fZ-42Lqs5-8JDG47awlHs3_fTIiTLPEFgUhnvBjWR44",
-      "deltaDownloadUrl": "https://mega.nz/file/GRFG1DDT#ag3xOTOicFktZxqICNUoyQFvVR8YVv_knMgwR3zqmRk",
-      "hasDelta": true
-    }
+    
   ]
 }
 
